@@ -1,0 +1,34 @@
+_repo: Vlci-proti-Mustang-m_27974
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Omelka, František
+    aliases:
+    - Omelka, F.
+    - Omelka, Frantisek
+    birthdate: 1904
+    deathdate: 1960
+    gutenberg_agent_id: '31795'
+    url: http://www.gutenberg.org/2009/agents/31795
+    wikipedia: http://eo.wikipedia.org/wiki/Franti%C5%A1ek_Omelka
+description: ''
+gutenberg_issued: '2009-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27974'
+language: cs
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Vacations -- Fiction'
+- !lcsh 'Camping -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Floods -- Fiction'
+- !lcc 'PZ'
+title: Vlci proti Mustangům
+url: http://www.gutenberg.org/ebooks/27974
